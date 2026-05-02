@@ -1,4 +1,4 @@
-# 🌟 India Healthcare Analysis Dashboard  
+# 🌟 India Health Expenditure Tracker
 
 📊 *Analyzing healthcare performance across Indian states using data-driven insights*
 
