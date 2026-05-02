@@ -111,7 +111,7 @@ This project analyzes healthcare performance using:
 
 ## 👩‍💻 Author  
 **Pallavi Patil**  
-Aspiring Data Analyst | SQL | Excel | Power BI | Python  
+Aspiring Data Analyst | SQL | Excel | Power BI | Python | Tableau
 
 ---
 
