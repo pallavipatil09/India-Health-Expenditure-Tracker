@@ -1,10 +1,11 @@
 # 🌟 India Health Expenditure Tracker  
 📊 *Data-Driven Analysis of Healthcare Performance Across Indian States*
 
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
-![Python](https://img.shields.io/badge/Python-Pandas-blue)
-![Project](https://img.shields.io/badge/Project-Data%20Analytics-success)
+![Project](https://img.shields.io/badge/Project-End--to--End-success)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 
 ---
 
