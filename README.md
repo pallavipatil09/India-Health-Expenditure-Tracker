@@ -1,88 +1,124 @@
-# 🌟 India Health Expenditure Tracker
+# 🌟 India Health Expenditure Tracker  
+📊 *Data-Driven Analysis of Healthcare Performance Across Indian States*
 
-📊 *Analyzing healthcare performance across Indian states using data-driven insights*
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![Python](https://img.shields.io/badge/Python-Pandas-blue)
+![Project](https://img.shields.io/badge/Project-Data%20Analytics-success)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ---
 
-## 🚀 Project Overview  
+## 🚀 Summary  
+Built an **interactive Power BI dashboard** to analyze healthcare performance across Indian states by integrating **health, infrastructure, and economic data**.
 
-This project presents an **interactive Power BI dashboard** that analyzes healthcare performance across Indian states using:
+The project focuses on identifying **high-risk regions**, understanding **healthcare inequalities**, and enabling **data-driven decision-making**.
 
-- 🏥 Healthcare Infrastructure (Beds)  
-- 📉 Infant Mortality Rate (IMR)  
-- 💰 Economic Strength (GSDP)  
+---
 
-👉 The goal is to identify **high-risk states** and understand how **infrastructure and economy impact health outcomes**
+## 📌 Project Overview  
+
+This project analyzes healthcare performance using:
+
+- 🏥 **Healthcare Infrastructure** (Hospital Beds)  
+- 📉 **Infant Mortality Rate (IMR)**  
+- 💰 **Economic Strength (GSDP)**  
+
+👉 Objective: Identify **high-risk states** and understand how **infrastructure and economy influence health outcomes**
 
 ---
 
 ## 🛠️ Tools & Technologies  
 
-| Tool | Usage |
-|------|------|
-| 🐍 Python (Pandas) | Data Cleaning & Merging |
-| 📊 Power BI | Dashboard & Visualization |
-| 📁 CSV / Excel | Data Storage |
+| Tool | Purpose |
+|------|--------|
+| 🐍 Python (Pandas) | Data Cleaning & Transformation |
+| 📊 Power BI | Dashboard Development |
+| 📁 Excel / CSV | Data Storage & Processing |
 
 ---
 
-## 📂 Dataset Used  
+## 📂 Dataset  
 
 - IMR (Infant Mortality Rate)  
-- Hospital Beds Data  
-- GSDP (State-wise GDP)  
-- State Coordinates (for map visualization)  
+- Hospital Beds (Infrastructure)  
+- GSDP (Economic Indicator)  
+- State Coordinates (Map Visualization)  
 
 ---
 
 ## 🔧 Data Preparation  
 
-✔ Cleaned and standardized datasets  
-✔ Handled missing values  
-✔ Merged multiple datasets using state as key  
-✔ Created final analysis-ready dataset  
+✔ Cleaned and standardized raw datasets  
+✔ Handled missing values and inconsistencies  
+✔ Merged datasets using **state as key**  
+✔ Created a **final analysis-ready dataset**  
 
 ---
 
-## 📊 Dashboard Highlights  
+## 📊 Dashboard Features  
 
-✨ KPI Cards (Total States, Health Score, Avg IMR, Beds, GSDP)  
-🗺️ India Map (state-wise IMR visualization)  
-🌳 Treemap (healthcare infrastructure distribution)  
-📉 Top 10 High Risk States (High IMR)  
+✨ KPI Cards → Total States, Avg IMR, Beds, GSDP, Health Score  
+🗺️ Interactive India Map → State-wise IMR visualization  
+🌳 Treemap → Infrastructure distribution  
+📉 Top 10 High-Risk States (High IMR)  
 📈 Top 10 Best Performing States  
-📊 Scatter Plot (GSDP vs IMR with trend line)  
-🎛️ Interactive slicers for filtering  
+📊 Scatter Plot → GSDP vs IMR (with trendline)  
+🎛️ Slicers → Dynamic filtering  
+
+---
+
+## 📸 Dashboard Preview  
+<img width="1324" height="740" alt="Dashboard" src="https://github.com/user-attachments/assets/0afad433-d742-4423-8732-00a9a67edf6b" />
+
 
 ---
 
 ## 📈 Key Insights  
 
-🔴 States with high IMR are **high-risk zones**  
-🟢 Better infrastructure leads to **lower IMR**  
-💰 Higher GSDP is generally linked to **better healthcare outcomes**  
-⚖️ Significant inequality exists across states  
+🔴 States with high IMR represent **critical healthcare risk zones**  
+🟢 Higher hospital bed availability correlates with **lower IMR**  
+💰 States with stronger economies show **better health outcomes**  
+⚖️ Significant **regional inequality** exists across India  
 
 ---
 
-## 🎯 Project Outcome  
+## 🎯 Business Impact  
 
-This dashboard helps in:
-
-✔ Identifying healthcare gaps  
-✔ Comparing state performance  
-✔ Supporting data-driven decision-making  
+✔ Identify healthcare gaps across states  
+✔ Support policy-level decision making  
+✔ Compare state performance effectively  
+✔ Enable data-driven healthcare planning  
 
 ---
 
-## 📥 How to Use  
+## ▶️ How to Use  
 
 1. Download the `.pbix` file  
-2. Open in Power BI Desktop  
+2. Open in **Power BI Desktop**  
 3. Use slicers to explore insights  
 
 ---
 
-## ⭐ If you like this project  
+## 🌟 Project Highlights  
 
-Give it a ⭐ on GitHub and connect with me!
+- End-to-end data analysis workflow  
+- Real-world dataset integration  
+- Insight-driven dashboard design  
+- Clean and interactive UI  
+- Business-focused storytelling  
+
+---
+
+## 👩‍💻 Author  
+**Pallavi Patil**  
+Aspiring Data Analyst | SQL | Excel | Power BI | Python  
+
+---
+
+## 📬 Connect With Me  
+- LinkedIn: www.linkedin.com/in/patilpallavianil
+
+---
+
+## ⭐ If you like this project  
+Give it a ⭐ and share your feedback!
